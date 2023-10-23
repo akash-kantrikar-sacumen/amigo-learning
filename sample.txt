@@ -1,1 +1,113 @@
 you have just added a sample file
+
+List of cmds used so far:
+
+git --help
+  348  ls
+  349  pwd
+  350  git config
+  351  gt config -l
+  352  git config -l
+  353  ls
+  354  cd PycharmProjects/
+  355  ls
+  356  mkdir learning-git
+  357  ls
+  358  cd learning-git/
+  359  ls
+  360  ls -l
+  361  ls -a
+  362  rm -rf .git
+  363  ls -a
+  364  git init .
+  365  touch index.html
+  366  touch inex.js
+  367  touch main.css
+  368  ls
+  369  rm inex.js 
+  370  ls
+  371  touch index.js
+  372  ls
+  373  git status
+  374  git add index.html
+  375  git status
+  376  git rm --cached index.html
+  377  git status
+  378  git add index.html
+  379  git add index.js
+  380  git status
+  381  pwd
+  382  git add .
+  383  git status
+  384  git rm --cached .
+  385  git rm -r --cached .
+  386  git status
+  387  git add .
+  388  git status
+  389  git rm -r --cached .
+  390  mkdir test
+  391  cd test
+  392  touch test.js
+  393  git status
+  394  git add .
+  395  ls
+  396  git status
+  397  git add -A
+  398  git status
+  399  git log
+  400  git show 7a27125349dbdfedbd486f5c1c06b8c5f49b0778
+  401  vi index.js
+  402  cat index.js
+  403  git status
+  404  git diff
+  405  git dif
+  406  git diff
+  407  ls
+  408  cat index.js
+  409  git status
+  410  ls
+  411  git diff
+  412  cd ..
+  413  git diff
+  414  ls
+  415  cat index.js
+  416  cd test
+  417  ls
+  418  rm index.js 
+  419  ls
+  420  cd ..
+  421  vi index.js
+  422  cat index.js
+  423  git diff
+  424  git add .
+  425  git status
+  426  git commit -m 'added console.log'
+  427  git log
+  428  git show 4bca7cb289ae580333134acefbe26f195d665806
+  429  git diff
+  430  ls
+  431  vi main.css 
+  432  git add .
+  433  git commit -m "some garbage msg"
+  434  git diff
+  435  gt log
+  436  git log
+  437  git commit --ammend -m "added body in css"
+  438  git commit --amend -m "added body in css"
+  439  git log
+  440  ls
+  441  git remote add origin git@github.com:akash-kantrikar-sacumen/amigo-learning.git
+  442  git branch
+  443  git branch -M main
+  444  git push -u origin main
+  445  ls
+  446  vi sample.txt
+  447  cat sample.txt 
+  448  git status
+  449  git add .
+  450  git status
+  451  git commit -m 'added sample.txt file'
+  452  git status
+  453  git log
+  454  git push
+  455  git log
